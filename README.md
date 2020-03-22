@@ -1,6 +1,14 @@
 # HackIndore2_Kryptonians
 **KRYPTOMARKET** - Virtual Trials with the help of Augmented Reality. Try cloths virtually before purchasing!
 
+Requirements:-<br> 
+Open CV<br>
+dlib<br>
+numpy<br>
+cmake<br>
+scipy<br>
+gunicorn<br>
+
 
 To **run** the Project:
 
